@@ -1,4 +1,4 @@
-## 👥 Team & Collaboration
+## DebugArena — Nebius × NVIDIA Global AI Hackathon Project 👥🔥
 
 **DebugArena** is a collaborative group hackathon project developed for the **Nebius × NVIDIA Global AI Hackathon**, under the **Coding and Agentic Engineering** track.
 
